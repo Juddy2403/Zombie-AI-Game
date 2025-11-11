@@ -47,3 +47,8 @@ Any custom implementations or extra’s will be rewarded. A custom technique cou
 - GitHub Usage
     - Regular commits
     - Commit messages
+
+
+### Feedback - what to improve
+
+- No need to check for items needed each frame. Can only check when discarding an item.
